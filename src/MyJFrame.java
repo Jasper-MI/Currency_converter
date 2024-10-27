@@ -74,7 +74,7 @@ public class MyJFrame extends JFrame implements ActionListener {
 
     }
 
-    static String API_KEY = "f7b054e08f9045c68e3766fd2c461692";
+    static String API_KEY = "****************************";
     static String BASE_URL = "https://openexchangerates.org/api/latest.json";
 
     public static double getExchangeRate(String from, String to) throws Exception {
